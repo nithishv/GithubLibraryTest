@@ -1,0 +1,7 @@
+<resources>
+<!--    <string name="app_name">GithubLibrary</string>-->
+    <string name="app_name">Test</string>
+    <string name="play_animation_1">Play Animation 1</string>
+    <string name="play_animation_2">Play Animation 2</string>
+    <string name="play_animation_3">Play Animation 3</string>
+</resources>
